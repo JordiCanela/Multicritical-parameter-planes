@@ -13,4 +13,5 @@ Beatriz Campos, Jordi Canela, Alberto Rodríguez-Arenas, Purificación Vindel.
 ## How to cite
 
 When citing this repository, refer to the original paper where the algorithm was presented:
+
 B. Campos, J. Canela, A. Rodríguez-Arenas, P. Vindel, Computing parameter planes of iterative root-finding methods with several free critical points, to appear in Mathematics and Computers in Simulation.
