@@ -1,6 +1,6 @@
 # Multicritical Parameter Planes 
 
-This repository contains an implementation in C of the algorithm descrived in the paper [1] to draw parameter planes of rational maps with 2 or more free critical points. 
+This repository contains an implementation in C of the algorithm described in the paper [1] to draw parameter planes of rational maps with 2 or more free critical points. 
 
 ## Dependencies
 
