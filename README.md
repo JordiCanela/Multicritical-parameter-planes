@@ -4,7 +4,7 @@ This repository contains an implementation in C of the algorithm descrived in th
 
 ## Dependencies
 
-Main_libattopng.c uses the library `libattopng`, a minimal C library to create uncompressed PNG images. It can be downloaded at https://github.com/misc0110/libattopng
+`Main_libattopng.c` uses the library `libattopng`, a minimal C library to create uncompressed PNG images. It can be downloaded at https://github.com/misc0110/libattopng
 
 ## Usage
 
