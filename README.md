@@ -8,7 +8,7 @@ This repository contains an implementation in C of the algorithm descrived in th
 
 ## Usage
 
-Since `Main_libattopng.c` uses `libattopng`, the documents `libattopng.h` and `libattopng.c` need to be added to the project. `Main_libattopng.c` reads the colours used from the document `coulourmap.map`. The parameters of the program are chosen to draw the parameter plane of the rational map of Section 4.1 at [1]. In order to change the rational map you want to draw, you need to change the function within `evaluateFunction`, to change the corresponding critical points wihin `defcriticalpoints`, and to indicate the total number of critical points within the parameter libattopng. If necessary, the stop condition needs to be adapted to the permanent (super)attracting points or cycles of the rational map (for the implemented map there are two supperattracting fixed points, 0 and infinity).
+Since `Main_libattopng.c` uses `libattopng`, the documents `libattopng.h` and `libattopng.c` need to be added to the project. `Main_libattopng.c` reads the colours used from the document `colourmap.map`. The parameters of the program are chosen to draw the parameter plane of the rational map of Section 4.1 at [1]. In order to change the rational map you want to draw, you need to change the function within `evaluateFunction`, to change the corresponding critical points wihin `defcriticalpoints`, and to indicate the total number of critical points within the parameter libattopng. If necessary, the stop condition needs to be adapted to the permanent (super)attracting points or cycles of the rational map (for the implemented map there are two supperattracting fixed points, 0 and infinity).
 
 ## How to cite
 
